@@ -1,0 +1,40 @@
+#paragraph{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+button{
+position: relative;
+left: 300px;
+cursor: pointer;
+}
+
+#btn1{
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    font-size: 1rem;
+}
+#btn2{
+    background-color: red;
+    color: white;
+    padding: 7px;
+    font-size: 1rem;
+}
+#btn1{
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    font-size: 1rem;
+}
+p{
+    text-align: center;
+}
+.inputs{
+    display:block
+
+}
+p{
+    font: verdana;
+    font-size: 2em;
+}
