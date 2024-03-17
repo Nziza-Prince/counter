@@ -41,8 +41,6 @@ button.addEventListener('click',()=>{
 //     clearInterval(interval)
 //   }
 // }
-
-
 // const countIncrease=() => {
 //     count--; 
 //     label.textContent = count; 
